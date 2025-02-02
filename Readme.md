@@ -1,8 +1,8 @@
-# ProfilePix
+# EchoGallery
 
 ## Overview
 
-ProfilePix is a social platform where users can create profiles, share images, follow other users, and interact through likes and comments. It’s built to demonstrate backend capabilities, providing secure authentication, authorization, and efficient data management.
+EchoGallery is a social platform where users can create profiles, share images, follow other users, and interact through likes and comments. It’s built to demonstrate backend capabilities, providing secure authentication, authorization, and efficient data management.
 
 
 ## Features
@@ -58,4 +58,4 @@ ProfilePix is a social platform where users can create profiles, share images, f
   - nodemon index.js
 
 5. **Access the app**:
-   Open `http://localhost:port` in your browser to explore ProfilePix.
+   Open `http://localhost:port` in your browser to explore EchoGallery.
