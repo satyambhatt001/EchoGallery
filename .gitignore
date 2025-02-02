@@ -1,0 +1,14 @@
+package-lock.json
+node_modules
+.env
+.vscode
+lightbox
+responsive-navbar
+user2.html
+checkIfLoggedOut.middleware
+docker_demo
+buttons
+public.zip
+imageUploadedSuccessfully.ejs
+errorModal.html
+Simple chat App
